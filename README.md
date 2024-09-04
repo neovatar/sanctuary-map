@@ -6,6 +6,8 @@ This map is heavily inspired by the map included in the [Thieves' World RPG supp
 
 ![Map of the City of Sanctuary](Sanctuary.webp)
 
+[Download map as webp file](https://raw.githubusercontent.com/neovatar/sanctuary-map/main/Sanctuary.webp)
+
 My map of Sanctuary is licensed CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 (c) 2023 by Thomas Seliger (neovatar)
